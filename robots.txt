@@ -1,0 +1,2 @@
+User-Agent:* Allow: /
+Sitemap: https://btslooksalike.netlify.app/sitemap.xml
