@@ -154,8 +154,16 @@ body{
   color: #35465d;
 }
 
+.title2 {
+  margin-top: 20px;   
+  line-height: 1.67;
+  text-align: center;
+  color: #35465d;
+}
+
+
 .subtitle {
-  margin-top: 20;    
+  margin-top: 20px;    
   margin-bottom: 0px;    
   line-height: 1.53;
   text-align: center;
