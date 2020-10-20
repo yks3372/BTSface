@@ -155,7 +155,8 @@ body{
 }
 
 .subtitle {
-  margin-bottom: 100px;    
+  margin-top: 20;    
+  margin-bottom: 0px;    
   line-height: 1.53;
   text-align: center;
   color: #35465d;
